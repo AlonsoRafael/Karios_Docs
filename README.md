@@ -2,13 +2,7 @@
 
 <div align="center">
 
-<img src="./public/modelo1/Modelo1-pg2.jpg" width="500px" alt="Kairós Docs - Documentos para Clínicas" />
-
-<br />
-
-<img src="https://img.shields.io/github/stars/AlonsoRafael/Karios_Docs?style=for-the-badge" alt="GitHub stars" />
-<img src="https://img.shields.io/github/forks/AlonsoRafael/Karios_Docs?style=for-the-badge" alt="GitHub forks" />
-<img src="https://img.shields.io/github/license/AlonsoRafael/Karios_Docs?style=for-the-badge" alt="License" />
+<img src=".gitassets/Karios_Docs.png" width="500px" alt="Kairós Docs - Documentos para Clínicas" />
 
 <br />
 
