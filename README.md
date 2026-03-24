@@ -6,6 +6,12 @@
 
 <br />
 
+<img src="https://img.shields.io/github/stars/AlonsoRafael/Karios_Docs?style=for-the-badge" alt="GitHub stars" />
+<img src="https://img.shields.io/github/forks/AlonsoRafael/Karios_Docs?style=for-the-badge" alt="GitHub forks" />
+<img src="https://img.shields.io/github/license/AlonsoRafael/Karios_Docs?style=for-the-badge" alt="License" />
+
+<br />
+
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
